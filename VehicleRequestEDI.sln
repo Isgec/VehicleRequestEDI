@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VehicleRequestEDI", "VehicleRequestEDI\VehicleRequestEDI.vbproj", "{E3AE1CD2-2A82-4CC8-8AB3-D6DB616BDF21}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JobProcess", "JobProcess\JobProcess.vbproj", "{1A97FB5F-A0E5-4BD9-88DD-D9041AD582F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E3AE1CD2-2A82-4CC8-8AB3-D6DB616BDF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3AE1CD2-2A82-4CC8-8AB3-D6DB616BDF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3AE1CD2-2A82-4CC8-8AB3-D6DB616BDF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A97FB5F-A0E5-4BD9-88DD-D9041AD582F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A97FB5F-A0E5-4BD9-88DD-D9041AD582F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A97FB5F-A0E5-4BD9-88DD-D9041AD582F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A97FB5F-A0E5-4BD9-88DD-D9041AD582F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
